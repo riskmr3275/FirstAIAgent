@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme_content = """
 # 🧿 Krishna Leela Text Generator
 
 An AI-powered text generation project based on the divine stories and wisdom of **Lord Krishna**. The system uses a fine-tuned transformer model to answer prompts with mythological context and storytelling flair. Built using **FastAPI** (Python backend) and a **ReactJS** frontend.
